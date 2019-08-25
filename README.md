@@ -8,5 +8,5 @@
 * [Henyong的音乐之旅](henyong/music) //这些音♂乐, 还可以教你登♂dua♂郎哦!
 ### 名片
 你知道我读哪个学校, 也知道我读哪一班吗?
-* **我的Github: Github.com/henyong;**
+* **我的Github: github.com/henyong;**
 * **我的QQ和WeChat: 2211354141;**
