@@ -8,7 +8,7 @@
 ### 好♂康的:
 
 这些好♂康的比游戏还刺激!
-* [Henyong的音乐之旅](henyong/music) //这些音♂乐, 还可以教你登♂dua♂郎哦!
+* [Henyong的音乐之旅](https://github.com/henyong/music) //这些音♂乐, 还可以教你登♂dua♂郎哦!
 ### 名片
 
 你知道我读哪个学校, 也知道我读哪一班吗?
