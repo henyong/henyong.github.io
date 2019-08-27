@@ -10,9 +10,9 @@
 ### 好♂康的:
 
 这些好♂康的比游戏还刺激!
-* [Henyong的音乐之旅](music) //这些音♂乐, 还可以教你登♂dua♂郎哦!
+* [Henyong的音乐之旅](github.com/henyong/MUSIC) //这些音♂乐, 还可以教你登♂dua♂郎哦!
 
-### 名片
+### 名片&传送门
 
 你知道我读哪个学校, 也知道我读哪一班吗?
 * **我的Github: github.com/henyong;**
