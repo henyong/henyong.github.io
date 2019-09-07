@@ -11,7 +11,7 @@
 
 这些好♂康的比游戏还刺激!
 * [Henyong的音乐之旅](https://henyong.github.io/MUSIC/) //这些音♂乐, 还可以教你登♂dua♂郎哦!
-* [Xasco-Code语言](https://henyong.github.io/XASCO-CODE/) //这是一个简单的**加密文字**的策略!
+* [Xasco-代码](https://henyong.github.io/XASCO-CODE/) //这是一个简单的**加密文字**的策略!
 ### 名片&传送门
 
 你知道我读哪个学校, 也知道我读哪一班吗?
