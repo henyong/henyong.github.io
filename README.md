@@ -12,6 +12,7 @@
 这些好♂康的比游戏还刺激!
 * [Henyong的音乐之旅](https://henyong.github.io/MUSIC/) //这些音♂乐, 还可以教你登♂dua♂郎哦!
 * [Xasco代码](https://henyong.github.io/XASCO/) //这是一个简单的**加密文字**的策略!
+* [破·选择困难症](https://henyong.github.io/lucker/) //让随机算法帮您做出选择!
 
 ### 名片&传送门
 
