@@ -1,6 +1,6 @@
 # HENYONG的主页
 
-感谢GIEHUB!🙇‍
+*感谢GITHUB!🙇‍
 
 ### 我是谁?
 
