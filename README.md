@@ -1,5 +1,5 @@
 # 抽奖
-<textarea width="200px" height="100px" id="txt"></textarea><br/>
+<textarea width="300px" height="200px" id="txt"></textarea><br/>
 <button onclick="a()">开始!</button>
 <script>
   function a(){
