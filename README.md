@@ -9,8 +9,8 @@
   '3、你的初恋对象是谁?',
   '4、你的初吻是几岁，被谁夺取的?',
   '5、你亲吻过多少人?'
-  document.getElementById("txt").value=notes[2];
   };
+  document.getElementById("txt").value=notes[2];
   }
   
 </script>
