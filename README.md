@@ -1,8 +1,8 @@
 # 抽奖
 <textarea width="200px" height="100px" id="txt"></textarea><br/>
-<button onclick="main()">开始</button>
+<button onclick="a()">开始!</button>
 <script>
-  function main(){
+  function a(){
   var notes={
   '1、你有没有钟意的人?是谁?',
   '2、你的初恋是几岁?',
@@ -12,5 +12,4 @@
   };
   document.getElementById("txt").value=notes[2];
   }
-  
 </script>
